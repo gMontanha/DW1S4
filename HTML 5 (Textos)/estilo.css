@@ -1,0 +1,60 @@
+h1 {
+    text-align: center;
+}
+
+body{
+    background-color: lightgreen;
+}
+
+div{
+    border: solid 3px black;
+}
+
+.white{
+    background-color: white;
+    font-weight: bold;
+}
+
+.white span{
+    background-color: yellow;
+}
+
+.blueText{
+    color: blue;
+}
+
+.redText{
+    color:red;
+}
+
+.orangeText{
+    color:orange;
+}
+
+.leftText{
+    text-align: left;
+}
+
+.centerText{
+    text-align: center;
+}
+
+.rightText{
+    text-align: right;
+}
+
+.throughText{
+    text-decoration: line-through;
+}
+
+.underText{
+    text-decoration: underline;
+}
+
+.capitalText{
+    text-transform: capitalize;
+}
+
+.upperText{
+    text-transform: uppercase;
+}

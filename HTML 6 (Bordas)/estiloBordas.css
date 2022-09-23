@@ -1,0 +1,36 @@
+.dotGreen{
+    background-color: lightgreen;
+    border: 7px dotted green;
+}
+
+.doubleGray{
+    background-color: lightgray;
+    border: 7px double gray;
+}
+
+.dashRed{
+    background-color: lightcoral;
+    border: 7px dashed red;
+}
+
+.solidBlue{
+    background-color: lightblue;
+    border: 7px solid blue;
+}
+
+.normal{
+    text-indent: 25px;
+}
+
+.block{
+    border-left: 20px solid pink;
+    background-color: lightblue;
+}
+
+.dotPurple{
+    border: 10px dotted purple;
+}
+
+.doublePurple{
+    border: 20px double rgb(170, 2, 170);
+}

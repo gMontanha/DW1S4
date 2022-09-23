@@ -1,0 +1,25 @@
+.center{
+    text-align: center;
+}
+
+.firstSection{
+    border: 1vh solid black;
+    font-size: 1.5vw;
+    width: 65%;
+    background-color: white;
+}
+
+.secondSection{
+    border: 8px solid black;
+    font-size: 20pt;
+    width: 1000px;
+    background-color: white;
+}
+
+span{
+    font-style: italic;
+}
+
+.lhamaVerde{
+    background-color: lightgreen;
+}

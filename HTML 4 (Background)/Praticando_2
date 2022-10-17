@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Background</title>
+    <link rel="stylesheet" href="tabelas.css">
+</head>
+<body>
+    <table>
+        <tr>
+            <td><b>Código</b></td>
+            <td><b>Cor</b></td>
+        </tr>
+        <tr>
+            <td>red</td>
+            <td class="red">------------------------</td>
+        </tr>
+        <tr>
+            <td>#b30000</td>
+            <td class="dark-red">------------------------</td>
+        </tr>
+        <tr>
+            <td>#660000</td>
+            <td class="darker-red">------------------------</td>
+        </tr>
+        <tr>
+            <td>green</td>
+            <td class="green">------------------------</td>
+        </tr>
+        <tr>
+            <td>#99ff99</td>
+            <td class="light-green">------------------------</td>
+        </tr>
+        <tr>
+            <td>#004d00</td>
+            <td class="dark-green">------------------------</td>
+        </tr>
+    </table>
+</body>

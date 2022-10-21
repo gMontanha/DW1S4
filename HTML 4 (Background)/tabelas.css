@@ -30,3 +30,23 @@ td{
 .dark-green{
     background-color: #004d00;
 }
+
+.blue{
+    background-color: blue;
+}
+
+.gray{
+    background-color: #ccccff;
+}
+
+.dark-blue{
+    background-color: #000066;
+}
+
+body{
+    background-image:url("rainbow.png");
+    background-position-x: left;
+    background-position-y: 400px;
+    background-repeat: repeat-x;
+    background-size: 10vw 5vw;
+}

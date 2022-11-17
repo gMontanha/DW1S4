@@ -1,0 +1,148 @@
+img.right{
+    float: right;
+}
+
+img.left{
+    float: left;
+}
+
+p.line{
+    clear: both;
+    border-top: 5px dashed gray;
+    width: 100vw;
+}
+
+img.leader{
+    margin-top: 10vh;
+    margin-left: 18vw;
+    width: 20vw;
+    height: 15vw;
+    opacity: 0.5;
+}
+
+img.follower{
+    margin-top: 10vh;
+    width: 20vw;
+    height: 15vw;
+    opacity: 0.5;
+}
+
+img:hover{
+    opacity: 1.0;
+}
+
+div.um{
+    display: inline-block;
+    border: 5px solid darkblue;
+    background-color: blue;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    Height: 5vw;
+    Width: 10vw;
+    margin-left: 20vw;
+    margin-top: 2vh;
+}
+
+div.oito{
+    display: inline-block;
+    border: 5px solid darkblue;
+    background-color: blue;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    Height: 5vw;
+    Width: 10vw;
+    margin-top: 2vh;
+    opacity: 0.8;
+}
+
+div.seis{
+    display: inline-block;
+    border: 5px solid darkblue;
+    background-color: blue;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    Height: 5vw;
+    Width: 10vw;
+    margin-top: 2vh;
+    opacity: 0.6;
+}
+
+div.quatro{
+    display: inline-block;
+    border: 5px solid darkblue;
+    background-color: blue;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    Height: 5vw;
+    Width: 10vw;
+    margin-top: 2vh;
+    opacity: 0.4;
+}
+
+div.dois{
+    display: inline-block;
+    border: 5px solid darkblue;
+    background-color: blue;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    Height: 5vw;
+    Width: 10vw;
+    margin-top: 2vh;
+    opacity: 0.2;
+}
+
+div.greenSquare{
+    display: inline-block;
+    border: 1px solid green;
+    background-color: green;
+    margin-right: 5px;
+    height: 80px;
+    width: 80px;
+}
+
+div.space{
+    height:5px;
+}
+
+div.greenHRect{
+    display: inline-block;
+    border: 1px solid green;
+    background-color: green;
+    margin-right: 5px;
+    height: 80px;
+    width: 240px;
+}
+
+div.greenVRect{
+    display: inline-block;
+    border: 1px solid green;
+    background-color: green;
+    margin-right: 5px;
+    height: 240px;
+    width: 80px;
+}
+
+div.redCircle{
+    display: inline-block;
+    border: 1px solid red;
+    background-color: red;
+    margin-right: 5px;
+    height: 80px;
+    width: 80px;
+    border-radius: 40px;
+}
+
+div.greenSquircle{
+    display: inline-block;
+    border: 1px solid green;
+    background-color: green;
+    margin-right: 5px;
+    height: 80px;
+    width: 80px;
+    border-radius: 10px;
+}

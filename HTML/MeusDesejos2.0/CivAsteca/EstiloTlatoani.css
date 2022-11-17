@@ -1,0 +1,32 @@
+div.verde{
+    text-align: center;
+    padding: 10px 10px 10px 10px;
+    border: 1vh solid black;
+    border-radius: 25px;
+    background-color: green;
+    background-image: url("calendario.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+div.floater img{
+    float: left;
+    width: 25vw;
+    height: 19vw;
+    margin-right: 1vw;
+}
+
+div.floater figcaption{
+    float: left;
+}
+
+div.floater p{
+    text-align: left;
+    text-indent: 2vw;
+}
+
+body{
+    background-color: saddlebrown;
+    color: white;
+    font-family: 'Changa', sans-serif;
+}

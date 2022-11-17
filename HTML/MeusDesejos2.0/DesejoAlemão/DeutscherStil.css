@@ -1,0 +1,29 @@
+img.glockenspiel{
+    float: right;
+    width: 30vw;
+    height: 20vw;
+}
+
+p.indent{
+    text-indent: 3vw;
+}
+
+h2{
+    font-family: 'UnifrakturMaguntia', cursive;
+}
+
+h3{
+    font-family: 'UnifrakturMaguntia', cursive;
+}
+
+img.pronomes{
+    margin-top: 10px;
+    float: right;
+}
+
+body{
+    background-image: url("german.png");
+    background-repeat: no-repeat;
+    background-position-y: 60vh;
+}
+

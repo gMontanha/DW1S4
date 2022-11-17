@@ -1,0 +1,43 @@
+h1{
+    font-family: 'Special Elite', cursive;
+}
+
+body {
+    background-image: url("background.jpg");
+}
+
+p {
+    font-family: 'Special Elite', cursive;
+}
+
+div.edoDivisa {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+div.meijiDivisa {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+div > img {
+    width: 45vw;
+    height: 45vw;
+}
+
+div.meijiDivisa > img {
+    width: 85vw;
+    height: 30vw;
+}
+
+div.meijiDivisa > figcaption {
+    margin-bottom: 5vh;
+}
+
+img.edoPintura {
+    padding-top: 15px;
+    width: 90vw;
+}
+

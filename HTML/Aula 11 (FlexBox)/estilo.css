@@ -1,0 +1,14 @@
+.flex-header{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: lightgreen;
+    justify-content: space-around;
+    padding-bottom: 10px;
+}
+
+.flex-header > div.int{
+    padding-right: 70vw;
+    padding-left: 25px;
+    padding-bottom: 10px;
+    font-size: large;
+}

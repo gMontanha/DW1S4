@@ -1,0 +1,129 @@
+.center{
+    text-align: center;
+}
+
+.firstSection{
+    border: 1vh solid black;
+    font-size: 1.5vw;
+    width: 65%;
+    background-color: white;
+}
+
+.secondSection{
+    border: 8px solid black;
+    font-size: 20pt;
+    width: 1000px;
+    background-color: white;
+}
+
+span{
+    font-style: italic;
+}
+
+.lhamaVerde{
+    background-color: lightgreen;
+}
+
+.lhamaVermelha{
+    background-color: tomato;
+}
+
+.margemBranca{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: white;
+}
+
+.space{
+    padding-top:15px;
+}
+
+.placeholder{
+    background-color: blue;
+}
+
+.smallerLhama{
+    width: 15%;
+    height: 15%;
+}
+
+.smallLhama{
+    width: 20%;
+    height: 20%;
+}
+
+.mediumLhama{
+    width: 25%;
+    height: 25%;
+}
+
+.bigLhama{
+    width: 30%;
+    height: 30%;
+}
+
+.curly{
+    padding-left: 15px;
+    font-family: "Sofia", sans-serif;
+}
+
+.blocoAzul{
+    text-align: center;
+    color: white;
+    margin-left: 20vw;
+    padding: 10px 10vw 10px 10px;
+    border: 1vh solid black;
+    border-radius: 25px;
+    background-color: blue;
+}
+
+.blocoVermelho{
+    text-align: center;
+    color: white;
+    margin-right: 20vw;
+    padding: 10px 10px 10px 10vw;
+    border: 1vh solid black;
+    border-radius: 25px;
+    background-color: red;
+}
+
+.cinza{
+    background-color: lightgray;
+}
+
+.green{
+    padding: 2px 5px 2px 5px;
+    background-color: rgb(2, 158, 2);
+}
+
+.green span{
+    font-style: normal;
+    font-weight: bold;
+    color: purple;
+    background-color: pink;
+}
+
+.yellow{
+    padding: 2px 5px 2px 5px;
+    background-color: yellow;;
+}
+
+.yellow span{
+    font-style: normal;
+    font-weight: bold;
+    color: darkred;
+    background-color: cyan;
+}
+
+.paralelo{
+    border-top: 4px solid gray;
+    padding-top: 3px;
+    border-bottom: 3px solid gray;
+    margin-bottom: 8px; 
+}
+
+.header{
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 10px;
+}
